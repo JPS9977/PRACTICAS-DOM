@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+
+}
+
+.card{
+    width: 600px;
+    height: 400px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 5px rgba(0, 7, 8, 0.5);
+    background-color: rgb(0, 128, 122);
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 0;
+
+}
+
+.card-img{
+    width: 100px;
+    margin: auto;
+    padding: auto;
+}
+
+
+.container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+
+.prop{
+    font-weight: bold;
+    color: white;
+}
+
+.oferta{
+    color: greenyellow;
+}
